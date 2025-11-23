@@ -1,4 +1,4 @@
-# xml2odt-ods-web
+# xml2odt_ods_web
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d4699a28eba24405b97a3c52aeea8095)](https://app.codacy.com/gh/R0mb0/xml2odt_ods_web/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![pages-build-deployment](https://github.com/R0mb0/xml2odt_ods_web/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/xml2odt_ods_web/actions/workflows/pages/pages-build-deployment)
