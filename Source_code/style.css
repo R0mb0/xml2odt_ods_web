@@ -376,3 +376,30 @@ html[data-theme="dark"] #conversion-progress > div {
 .preview-xml .token {
   text-shadow: none !important;
 }
+
+:root {
+  --background: #fafafa;
+  --text: #222;
+  --table-border: #e0e0e0;
+  --card-bg: #fff;
+}
+
+html[data-theme="dark"] {
+  --background: #1f2024;
+  --text: #f2f2f2;
+  --table-border: #444;
+  --card-bg: #2a2b31;
+}
+
+/* fallback visivo per pulsanti anche se MDL non carica */
+.mdl-button {
+  border-radius: 8px;
+  padding: 0.65em 1.2em;
+  font-weight: 600;
+  border: none;
+}
+
+.mdl-button--raised.mdl-button--colored {
+  background: #3f51b5;
+  color: #fff;
+}
