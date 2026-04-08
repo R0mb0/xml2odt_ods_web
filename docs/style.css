@@ -5,6 +5,7 @@ html, body {
   background: var(--background, #fafafa);
   color: var(--text, #222);
   transition: background 0.3s, color 0.3s;
+  padding-bottom: 120px;
 }
 
 /* Theme toggle container in top right */
