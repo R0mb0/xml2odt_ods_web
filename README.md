@@ -10,6 +10,17 @@
 A modern, client-side web tool for converting XML files to valid ODT (text document) and ODS (spreadsheet) files. Upload one or more XML files and instantly generate ready-to-use OpenDocument files (ODT/ODS) with syntax-highlighted preview, validation, and batch conversion — all directly in your browser, with no server upload required.
 
 <div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
+
+
+<div align="center">
 
 ## [👉 Click here to test the page! 👈](https://r0mb0.github.io/xml2odt_ods_web/)
 
